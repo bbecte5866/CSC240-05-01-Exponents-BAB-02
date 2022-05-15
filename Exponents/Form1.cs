@@ -8,8 +8,8 @@ using System.Text;
 using System.Windows.Forms;
 
 /**************************************
- * Name:
- * Date:
+ * Name:        Brandi Bectel
+ * Date:        05/15/2022
  * Description: A program using user-created method
  *              for the math function Square and Cube
  * Assistance:
